@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Модели
+*.pt
+*.onnx
+
+# Данные
+*.db
+*.sqlite3
+snapshots/
+*.mp4
+*.avi
+*.mov
+
+# Системное
+.DS_Store
+.idea/
+.vscode/
